@@ -1,0 +1,25 @@
+{
+  "captured_at": "2026-05-24T14:12:03+02:00",
+  "printer": {
+    "name": "Lexmark MB2442adwe",
+    "model": "Lexmark MB2442adwe",
+    "serial_number": "7017902332FW2"
+  },
+  "toner": {
+    "name": "Black Toner",
+    "part_number": "B242H00",
+    "serial_number": "CAP254332DBF",
+    "serial_number_recycle_digits_only": "254332",
+    "level_percent": 84,
+    "pages_remaining": 3000,
+    "status": "OK"
+  },
+  "imaging_kit": {
+    "name": "Black Imaging Kit",
+    "part_number": "36S0006",
+    "serial_number": "CAD193432EF2",
+    "level_percent": 83,
+    "pages_remaining": 37400,
+    "status": "OK"
+  }
+}

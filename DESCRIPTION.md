@@ -3,7 +3,8 @@
   writes the result as both text and JSON.
 
   The script is mainly useful when Lexmark’s recycling return form asks for hard-to-find values such as
-  the printer serial number and toner serial number. It also derives the digit-only recycling value from
+  the printer serial number and toner serial number. The printer serial number is also requested when
+  registering an account for the recycling program. It also derives the digit-only recycling value from
   toner serial numbers like CAP... or SCAP....
 
   Tested with a Lexmark MB2442adwe without web interface authentication enabled.

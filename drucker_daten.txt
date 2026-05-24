@@ -1,0 +1,20 @@
+Abfragezeit: 2026-05-24T14:12:03+02:00
+Drucker: Lexmark MB2442adwe
+Druckername: Lexmark MB2442adwe
+Drucker-Seriennummer: 7017902332FW2
+Hinweis: Das Lexmark-Recyclingprogramm fragt diese Drucker-Seriennummer auch bei der Account-Registrierung ab.
+
+Schwarzer Toner: Black Toner
+Toner-Modell/Teilenummer: B242H00
+Toner-Seriennummer: CAD193432EF2
+Toner-Seriennummer fuer Lexmark-Recycling (nur Ziffern): CAD193432EF2
+Tonerstand: 84 %
+Restseiten: 3000
+Tonerstatus: OK
+
+Belichtungskit: Black Imaging Kit
+Belichtungskit-Teilenummer: 36S0006
+Belichtungskit-Seriennummer: iCAD193432EF2
+Belichtungskit-Stand: 83 %
+Belichtungskit-Restseiten: 37400
+Belichtungskit-Status: OK
