@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-SCRIPT_DIR="$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)"
+SCRIPT_DIR="$(CDPATH=cd -- "$(dirname -- "$0")" && pwd)"
 OUT_BASE="${1:-"$SCRIPT_DIR/drucker_daten"}"
 OUT_BASE="${OUT_BASE%.txt}"
 OUT_BASE="${OUT_BASE%.json}"
